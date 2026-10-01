@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+indictrans2/
+indictrans2_onnx/
